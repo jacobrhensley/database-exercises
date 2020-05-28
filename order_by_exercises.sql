@@ -1,4 +1,4 @@
-use employees;
+USE employees;
 
 SELECT *
 FROM employees
